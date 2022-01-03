@@ -1,6 +1,10 @@
 {
-  "name": "my-app",
-  "version": "0.1.0",
+  "name": "chat",
+  "description": "A mock chat app",
+  "version": "1.0.0",
+  "engines": {
+    "node": "16.x"
+  },
   "private": true,
   "dependencies": {
     "@chakra-ui/icons": "^1.1.1",
